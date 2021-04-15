@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/PortfolioPage/static/css/main.4957dc71.chunk.css",
+    "main.js": "/PortfolioPage/static/js/main.1aa118f5.chunk.js",
+    "main.js.map": "/PortfolioPage/static/js/main.1aa118f5.chunk.js.map",
+    "runtime-main.js": "/PortfolioPage/static/js/runtime-main.976fd048.js",
+    "runtime-main.js.map": "/PortfolioPage/static/js/runtime-main.976fd048.js.map",
+    "static/js/2.c753939f.chunk.js": "/PortfolioPage/static/js/2.c753939f.chunk.js",
+    "static/js/2.c753939f.chunk.js.map": "/PortfolioPage/static/js/2.c753939f.chunk.js.map",
+    "static/js/3.59b1ff66.chunk.js": "/PortfolioPage/static/js/3.59b1ff66.chunk.js",
+    "static/js/3.59b1ff66.chunk.js.map": "/PortfolioPage/static/js/3.59b1ff66.chunk.js.map",
+    "index.html": "/PortfolioPage/index.html",
+    "static/css/main.4957dc71.chunk.css.map": "/PortfolioPage/static/css/main.4957dc71.chunk.css.map",
+    "static/js/2.c753939f.chunk.js.LICENSE.txt": "/PortfolioPage/static/js/2.c753939f.chunk.js.LICENSE.txt",
+    "static/media/blazorlogo.9f6c714a.png": "/PortfolioPage/static/media/blazorlogo.9f6c714a.png",
+    "static/media/mlnetlogo.2e80c144.png": "/PortfolioPage/static/media/mlnetlogo.2e80c144.png",
+    "static/media/reactlogo.73ac128a.png": "/PortfolioPage/static/media/reactlogo.73ac128a.png",
+    "static/media/sqllogo.ce64e054.png": "/PortfolioPage/static/media/sqllogo.ce64e054.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.976fd048.js",
+    "static/js/2.c753939f.chunk.js",
+    "static/css/main.4957dc71.chunk.css",
+    "static/js/main.1aa118f5.chunk.js"
+  ]
+}
