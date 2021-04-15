@@ -23,11 +23,10 @@ const Skills: React.FC = () => {
     </Fade>
 
     <Zoom>
-      <h3>.NET/C# developer who engaged mostly in the Microsoft stack. Primarily inhouse enterprise applications of all sorts.Built from the ground up real estate system, helpdesk system, graphical signs system, web crawlers, internal “prisjakt” comparing system, claims management system etc.  Also developed a couple of exciting Machine learning services with the help of ML.NET.
-
-Most of the projects were built in the .NET Framework / Core and most recently Blazor. Usually sat with the whole development scope ranging from Blazor on the front end to .NET api and SQL server on the backend.  In addition to the enterprise development, I've made a few BI reports in SSRS and smaller integration jobs. I have some experience with React but no major.
-The tasks were varied. The work included everything from requirements collection, implementation, and development.
-</h3>
+      <p>
+        Worked as a developer since 2018 and primarily focused on the development of internal applications with a focus on the Microsoft stack.
+        Analytical and pragmatic person who is driven by creating effective solutions. "Soft" values comes natural for me and I make sure the clients need is aligned with the finished product. I Have a great interest in technology and curiosity about how things work.
+    </p>
     </Zoom>
 
   </div>
