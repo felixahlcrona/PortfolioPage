@@ -17,11 +17,8 @@ const App: React.FC = () => {
       <div className="parent">
         <div className="section" >
 
-
-
-
-          <Link to="/login"><h1>Skillset</h1></Link>
-          <Link to="/projects"><h1>Projects</h1></Link>
+          <Link to="/login" style={{ textDecoration: 'none' }} className="linkText"><h3>Summary</h3></Link>
+          <Link to="/projects"style={{ textDecoration: 'none' }} className="linkText"><h3>Projects</h3></Link>
 
 
 
