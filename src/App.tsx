@@ -1,15 +1,11 @@
 import React, { useState } from 'react';
-import blazorlogo from './Images/blazorlogo.png';
-import netlogo from './Images/netlogo.png';
-import reactlogo from './Images/reactlogo.png';
-import logo from './logo.svg';
 // @ts-ignore
 import { BrowserRouter as Router, Route, Link, Switch } from "react-router-dom";
 // @ts-ignore
 import Zoom, { Fade } from 'react-reveal';
 import './App.css';
 import Skills from './Skills';
-import About from './About';
+import Projects from './Projects';
 
 const App: React.FC = () => {
 
@@ -24,9 +20,8 @@ const App: React.FC = () => {
 
 
 
-          <Link to="/login"><h1>Home</h1></Link>
-          <Link to="/about"><h1>Skills</h1></Link>
-
+          <Link to="/login"><h1>Skillset</h1></Link>
+          <Link to="/projects"><h1>Projects</h1></Link>
 
 
 
@@ -37,8 +32,8 @@ const App: React.FC = () => {
             <Route path="/login">
               <Skills />
             </Route>
-            <Route path="/about">
-              <About />
+            <Route path="/projects">
+              <Projects />
             </Route>
           </Switch>
           <Zoom>
