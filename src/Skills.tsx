@@ -11,7 +11,6 @@ import './App.css';
 
 const Skills: React.FC = () => {
 
-
   return <div className="container">
     <Fade top cascade>
       <div>
@@ -20,7 +19,6 @@ const Skills: React.FC = () => {
         <img src={blazorlogo} className="logos" />
         <img src={sqllogo} className="logos" />
         <img src={reactlogo} className="logos" />
- 
       </div>
     </Fade>
 
@@ -32,7 +30,6 @@ The tasks were varied. The work included everything from requirements collection
 </h3>
     </Zoom>
 
- 
   </div>
 }
 

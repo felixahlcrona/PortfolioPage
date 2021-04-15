@@ -9,19 +9,13 @@ import Projects from './Projects';
 
 const App: React.FC = () => {
 
-  const [showText, setShowText] = useState(false);
-
   return <div className="container">
 
     <Router>
       <div className="parent">
         <div className="section" >
-
           <Link to="/login" style={{ textDecoration: 'none' }} className="linkText"><h3>Summary</h3></Link>
           <Link to="/projects"style={{ textDecoration: 'none' }} className="linkText"><h3>Projects</h3></Link>
-
-
-
         </div>
 
         <div className="section" >
@@ -36,8 +30,8 @@ const App: React.FC = () => {
           <Zoom>
         
           </Zoom>
-       
         </div>
+
       </div>
     </Router>
   </div>
