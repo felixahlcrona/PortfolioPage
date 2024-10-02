@@ -10,7 +10,7 @@ const Skills: React.FC = () => {
     <Fade top cascade>
     <div className="boxContainer">   
 
-<h1> test 3</h1>
+<h1> test 4</h1>
     <div className="box"><h3><FcSelfServiceKiosk /> <br></br>Enterprise software</h3> <p>Experience in creating inhouse applications like real estate system, helpdesk system, graphical signs system, price comparing system etc </p></div>
     <div className="box"><h3><FcTemplate /> <br></br>Blazor SPA</h3> <p>Experience in creating SPA sites for public and internal use with Blazor Serverside/Assembly </p></div>
     <div className="box"><h3><FcTemplate /> <br></br>.NET MVC</h3> <p>Experience in creating inhouse applications with .NET MVC framework/Core </p></div>
